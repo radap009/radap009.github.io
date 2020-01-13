@@ -11,10 +11,10 @@ Now getting back to my analysis of the MTA data which I worked with Noha and Pan
 
 Working through these assumptions we arrived at the top stations with the highest weekday traffic and almost all of them were in Manhattan.
 
-![avg_per_day](https://github.com/radap009/radap009.github.io/tree/master/_posts/avg_per_day.svg)
+![avgperday](https://github.com/radap009/radap009.github.io/tree/master/_posts/avgperday.svg)
 
 
 Digging down even further, we recommend Tuesday through Thursday and the best days to target New Yorkers at stations for getting as many email address as possible.
 
-![avg_weekdays](https://github.com/radap009/radap009.github.io/tree/master/_posts/avg_weekdays.svg)
+![avgweekdays](https://github.com/radap009/radap009.github.io/tree/master/_posts/avgweekdays.svg)
 
