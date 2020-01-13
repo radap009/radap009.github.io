@@ -16,6 +16,6 @@ Working through these assumptions we arrived at the top stations with the highes
 
 Digging down even further, we recommend Tuesday through Thursday and the best days to target New Yorkers at stations for getting as many email address as possible.
 
-![avg_weekdays](https://github.com/radap009/radap009.github.io/blob/master/images/avg_weekdays.svg)
+![avg_weekdays](/images/avg_weekdays.svg)
 
 
