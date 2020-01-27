@@ -9,6 +9,8 @@ Companies that have the cash to spend as actually spending on R&D, not just to n
 
 We all understand that no company can afford to hire Elon Musk to create a perception of greater innovation happening, so instead companies have to make the consistent effort of spending on R&D to create value to their investors. 
 
+![musk](/images/musk.png)
+
 Summarizing the analysis and sources of information used:
 
 Focus on improving operating margins, growth and R&D, while avoiding too much focus on top and bottom line
@@ -25,13 +27,13 @@ Limitations of the analysis: starting with a data set of over 1900 companies and
 
 Objective was to run a regression analysis with variables ranging from forecasted sales to beta to eps and look at the general pattern of what variables play a role in higher valuation.  
 
+![topcompanies](/images/topcompanies.png)
+
 Information sources that I tapped into were ThomsonOne Analytics and FirstCall Estimates which were the standard financial databases that offer the information on company estimates as well as their fundamentals. 
  
+![sources](/images/sources.png)
 
 
-![avg_per_day](/images/musk.png)
 
 
-Digging down even further, we recommend Tuesday through Thursday and the best days to target New Yorkers at stations for getting as many email address as possible.
 
-![avg_weekdays](/images/avg_weekdays.svg)
